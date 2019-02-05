@@ -51,6 +51,11 @@ body {
 	background: rgba(0, 0, 0, 0.7)
 }
 
+#main-footer {
+	background: #000;
+	color: #fff;
+}
+
 #video-play {
 	position: relative;
 	min-height: 200px;
